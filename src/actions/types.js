@@ -1,0 +1,9 @@
+export const CONTAINER_TAB_PRESSED = 'container_tab_pressed';
+export const MOVE_TAB_PRESSED = 'move_tab_pressed';
+export const CONTAINER_MOVE = 'container_move';
+export const CONTAINER_MOVE_SUCCESS = 'container_move_success';
+export const CONTAINER_MOVE_FAIL = 'container_move_fail';
+export const CONTAINERS_FETCH_SUCCESS = 'containers_fetch_success';
+export const LOCATIONS_FETCH_SUCCESS = 'locations_fetch_success';
+export const CM_CONTAINER_TEXT_CHANGED = 'cm_container_text_changed';
+export const CM_LOCATION_TEXT_CHANGED = 'cm_location_text_changed';
